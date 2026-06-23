@@ -4,7 +4,7 @@ WIP
 ## Tech Stack
 |  |  |
 | -------------- | --------------- |
-| **Frontend** | Next.js |
+| **Frontend** | React + vite |
 | **Backend** | Postgres |
 
 
